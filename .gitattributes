@@ -1,0 +1,5 @@
+# CSV 안에는 게임 원문의 줄바꿈(CRLF)이 필드 값으로 들어 있다.
+# git 의 자동 줄바꿈 변환(core.autocrlf)이 이 CR 을 지워버리면
+# FrontierTextTool 이 "CSV/bin mismatch" 로 삽입을 거부한다.
+# 따라서 CSV 는 줄바꿈 변환 대상에서 제외한다.
+*.csv -text
