@@ -265,3 +265,4 @@
 ~C05洋服~C00,1,16,~C05의상~C00,literal
 拘束,1,8,구속,literal
 %02d分%02d秒,1,16,%02d분 %02d초,literal
+%sの%sで%s,1,12,%s %s에서%s,literal
