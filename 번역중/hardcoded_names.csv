@@ -266,3 +266,4 @@
 拘束,1,8,구속,literal
 %02d分%02d秒,1,16,%02d분 %02d초,literal
 %sの%sで%s,1,12,%s %s에서%s,literal
+狩P,1,4,P,literal
