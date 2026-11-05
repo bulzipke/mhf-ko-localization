@@ -4,10 +4,12 @@
 
 ## 작업 전 읽을 문서
 
+- 문서 분류·읽기 순서: [문서 안내](docs/INDEX.md). 현재 상태는 `HANDOFF.md`, 운영 경로·복사 절차는 [운영 절차](docs/OPERATIONS.md)를 따른다. 과거 기록은 해당 주제의 근거가 필요할 때 조회한다.
 - 텍스트 검수·수정: [TRANSLATION_GUIDE.md](TRANSLATION_GUIDE.md)
 - 대사·호칭: [NPC 말투와 문맥](docs/NPC_STYLE.md)
 - 용어·표기: [현재 번역 결정](docs/TRANSLATION_DECISIONS.md), [용어집.csv](용어집.csv)
 - 외부 검수·공동 작업: [검수 보고서 양식](docs/REVIEW_TEMPLATE.md)
+- 전수 검수의 단위·이력·재검수 판정: [검수 원장 운영](review/README.md)
 
 ## 작업 범위
 
