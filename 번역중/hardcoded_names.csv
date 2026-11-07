@@ -267,3 +267,9 @@
 %02d分%02d秒,1,16,%02d분 %02d초,literal
 %sの%sで%s,1,12,%s %s에서%s,literal
 狩P,1,4,P,literal
+と%s,1,8,ㆁ %s,literal
+を救護しました,1,16,ㅸ 구호했습니다,literal
+に救護されました,1,20,에게 구호받았습니다,literal
+~C02%s~C00が蝕まれた！,1,24,~C02%s~C00ㅱ 잠식됐다!,literal
+:%d位,1,8,:%d위,literal
+:ランク外,1,12,:순위 외,literal
