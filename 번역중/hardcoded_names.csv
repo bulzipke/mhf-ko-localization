@@ -274,3 +274,4 @@
 :%d位,1,8,:%d위,literal
 :ランク外,1,12,:순위 외,literal
 が,1,4,"ㅱ ",fixed
+%s　%s,1,8,%s %s,literal
